@@ -3,10 +3,6 @@ M
 src/main/java/hello/Main.java,e/a/eaf5912d0de464cdd4f071c16f334de39de52e9c
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-[
-+src/main/java/hello/thread/HelloThread.java,d/2/d2f5f24efc6694640c32a26b427214f3380f4cd3
-_
-/src/main/java/hello/thread/HelloThreadMain.java,b/2/b23d967ce98717ae4d60410c426fba5c40d577f8
 c
 3src/main/java/hello/thread/start/BadThreadMain.java,5/a/5a954f5e2f51209372d41f4007b2386a2b2639cb
 g
@@ -41,3 +37,9 @@ i
 9src/main/java/hello/thread/start/InnerRunnableMainV4.java,0/4/04151f7f2a7ea2b94dab0009cd24bef873ccc5de
 f
 6src/main/java/hello/thread/start/DaemonThreadMain.java,a/8/a8ab1144f337e12d3078270e5bab22581e68232a
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+g
+7src/main/java/hello/thread/controll/ThreadInfoMain.java,f/c/fce5dbffcd524158ef14be564ef4caa3c6c674aa
+h
+8src/main/java/hello/thread/controll/ThreadStateMain.java,4/d/4dc52e70d9dff1e328471f99ebe2d01b55962cc0

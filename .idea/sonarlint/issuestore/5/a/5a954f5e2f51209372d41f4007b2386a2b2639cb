@@ -1,5 +1,8 @@
 
 @	java:S106"+Replace this use of System.out by a logger.(·Û¯‡
 E	java:S106	"+Replace this use of System.out by a logger.(ÎíÜ©úÿÿÿÿ
+}
+java:S1217
+"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(³†Îî8òæÈÊÌ2
 @	java:S106"+Replace this use of System.out by a logger.(şòÙ®
 ?	java:S106"+Replace this use of System.out by a logger.(ŸÅ6
