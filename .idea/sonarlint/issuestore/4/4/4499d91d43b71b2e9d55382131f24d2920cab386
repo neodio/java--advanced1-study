@@ -1,0 +1,8 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal ", count = " 3 times.(»‰À–ùÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "flag = " 3 times.(»‰À–ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ì¾®Ëÿÿÿÿÿ
+Y
+java:S3078">Use an "AtomicLong" for this field; its operations are atomic.(ëæûÿÿÿÿÿ
