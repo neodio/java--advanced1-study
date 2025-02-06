@@ -78,3 +78,9 @@ e
 5src/main/java/thread/sync/lock/LockSupportMainV1.java,0/b/0b5e57ff41c2f3402fa8d3c31d6d92c2fbd2056f
 e
 5src/main/java/thread/sync/lock/LockSupportMainV2.java,5/5/55884d05fde200beb764dc36f13d351b5f8e1c60
+\
+,src/main/java/thread/sync/BankAccountV4.java,e/3/e37df2c13ef81268550b994363911ffc55fb0355
+\
+,src/main/java/thread/sync/BankAccountV5.java,6/4/6441c9d96610c4a6153353f5e33ffc517425ac04
+\
+,src/main/java/thread/sync/BankAccountV6.java,3/b/3b5e93ec8d9c20e02e04d196d2611bf6e3f2b2df
