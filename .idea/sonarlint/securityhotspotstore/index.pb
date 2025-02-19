@@ -130,3 +130,9 @@ W
 'src/main/java/thread/cas/CasMainV2.java,0/b/0be46fd7b6a5a7df1b9c68e284bcd1ba459c3a75
 W
 'src/main/java/thread/cas/CasMainV3.java,a/7/a7860a287fdafbeed0f7e6d78e6b059ffa6b8a20
+b
+2src/main/java/thread/cas/spinlock/SpinLockBad.java,7/d/7d6d58aba67897fbd13e45938d1a346e07ace980
+c
+3src/main/java/thread/cas/spinlock/SpinLockMain.java,7/3/73690ead7588cf9bd36ac9d10e3294d7463ee635
+_
+/src/main/java/thread/cas/spinlock/SpinLock.java,d/b/db64db5eb732c6129b11e2d7127d96c78b2fc3fa
