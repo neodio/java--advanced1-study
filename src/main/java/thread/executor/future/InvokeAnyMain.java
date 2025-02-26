@@ -1,12 +1,10 @@
 package thread.executor.future;
 
-import thread.executor.CallableTask;
-
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
+import thread.executor.CallableTask;
 
 import static util.MyLogger.log;
 
